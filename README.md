@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 💻 Full-Stack Developer and B.Sc. IT graduate from VIVA College, University of Mumbai, with a CGPA of 8.5.
+- 💻 Full-Stack Developer and B.Sc. IT graduate from VIVA College, University of Mumbai, with a CGPA of 8 and currently persuing MCA in University of Mumbai.
 - 🌱 Interested in building web applications and learning new technologies through hands-on projects.
 - 🤖 Built an AI-integrated Mental Health Care web application, working on both the frontend and backend API integration.
 - 🛠️ I enjoy turning ideas into functional applications, solving coding problems, and improving my development skills one project at a time.
